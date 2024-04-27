@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi. My name is David and I have been blesses enough to currently be working at NASA Jet Propulsion Laboratory.
+We use an on premesis github at JPL so much of what I work on isn't publicly available. But I mostly do a lot
+dev ops type work and maintenance of existing code bases. Updating dependencies to address security issues is
+an ongoing thing that I work on. But I also get to work on some code for the Psyche mission. Psyche is a really
+cool mission where the spacecraft called Psyche will be visiting the asteroid Psyche 16. It uses electric
+propulsion and should arrive at its destination in early 2029. Hopefully by then I will be able to work on day
+to day engineering activities with the spacecraft. I can't wait!
