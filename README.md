@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi. My name is David and I have been blesses enough to currently be working at NASA Jet Propulsion Laboratory.
+Hi. My name is David and I have been blessed enough to currently be working at NASA Jet Propulsion Laboratory.
 We use an on premesis github at JPL so much of what I work on isn't publicly available. But I mostly do a lot
 dev ops type work and maintenance of existing code bases. Updating dependencies to address security issues is
 an ongoing thing that I work on. But I also get to work on some code for the Psyche mission. Psyche is a really
